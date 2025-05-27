@@ -7,24 +7,20 @@ This project showcases my skills, projects, and creativity through a beautifully
 
 [🔗 View Live Demo](https://gargiguptaaaa.github.io/myPortfolio/)
 
-Click the animated button below to experience the website live:
+Click the button below to experience the website live:
 
-<a href="https://gargiguptaaaa.github.io/myPortfolio/" target="_blank" 
-   style="
-     display: inline-block;
-     padding: 14px 28px;
-     font-size: 18px;
-     font-weight: bold;
-     color: white;
-     background: linear-gradient(45deg, #6a11cb, #2575fc);
-     border-radius: 8px;
-     text-decoration: none;
-     box-shadow: 0 4px 15px rgba(37, 117, 252, 0.4);
-     transition: background 0.3s ease, transform 0.2s ease;
-   "
-   onmouseover="this.style.background='linear-gradient(45deg, #2575fc, #6a11cb)'; this.style.transform='scale(1.05)';"
-   onmouseout="this.style.background='linear-gradient(45deg, #6a11cb, #2575fc)'; this.style.transform='scale(1)';"
->
+<a href="https://gargiguptaaaa.github.io/myPortfolio/" target="_blank" style="
+  display: inline-block;
+  padding: 14px 28px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(37, 117, 252, 0.4);
+  transition: background 0.3s ease;
+">
   🚀 Live Demo
 </a>
 
@@ -55,5 +51,3 @@ Click the animated button below to experience the website live:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/gargiguptaaaa/myPortfolio.git
-
-
